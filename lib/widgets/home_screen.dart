@@ -148,7 +148,7 @@ class HomeScreenState extends State<HomeScreen> {
                         height: 50,
                         child: Center(
                           child: Text(
-                            "Hilola G'ayratova",
+                            "Hilola  G'ayratova",
                             style: TextStyle(
                               color: AppColors.appBarText,
                               fontSize: 30,
